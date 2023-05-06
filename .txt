@@ -123,7 +123,7 @@ CCTV-15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225
 CCTV-16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 CCTV-13,http://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv13_2/index.m3u8
 
-卫视频道,#genre#
+卫视频道1,#genre#
 湖南卫视,http://39.184.224.99:9080/newlive/live/hls/18/live.m3u8
 东方卫视,http://39.184.224.99:9080/newlive/live/hls/19/live.m3u8
 江苏卫视,http://39.184.224.99:9080/newlive/live/hls/20/live.m3u8
@@ -390,7 +390,7 @@ CCTV-13,http://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv13_2/index.m3u8
 青海卫视,http://221.2.36.34:8888/newlive/live/hls/39/live.m3u8
 
 
-卫视,#genre#
+卫视频道2,#genre#
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://125.210.152.19:9120/live/hzgq-zjwsgq-h264.m3u8
 湖南卫视,http://125.210.152.19:9120/live/hzgq-hnwsgq-h264.m3u8
@@ -535,6 +535,16 @@ GTV网络棋牌,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240319_1/pl
 天津卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240136_1/playlist.m3u8?CONTENTID=00000110240136_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 浙江卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240134_1/playlist.m3u8?CONTENTID=00000110240134_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 重庆卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240397_1/playlist.m3u8?CONTENTID=00000110240397_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+
+🇹🇼台湾,#genre#
+東森戲劇,http://162.19.247.76:22222/live/dsxj/index.m3u8
+東森電影,http://162.19.247.76:22222/live/dsdyt/index.m3u8
+東森洋片,http://162.19.247.76:22222/live/dsypt/index.m3u8
+台視,http://162.19.247.76:22222/live/taishi/index.m3u8
+中視,http://162.19.247.76:22222/live/zhongshi/index.m3u8
+華視,http://162.19.247.76:22222/live/huashi/index.m3u8
+\緯來體育,http://123.51.230.108:18509/.m3u8
+中天娛樂,http://162.19.247.76:22222/live/ztyl/index.m3u8
 
 直播中国,#genre#
 直播中国精编直播,http://gcksc.v.kcdnvip.com/gc/wgw05_1/index.m3u8
