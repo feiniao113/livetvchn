@@ -776,7 +776,7 @@ TLC, http://www.yshmzmc.top/gtjm.php?id=live1005
 台視,http://162.19.247.76:22222/live/taishi/index.m3u8
 中視,http://162.19.247.76:22222/live/zhongshi/index.m3u8
 華視,http://162.19.247.76:22222/live/huashi/index.m3u8
-\緯來體育,http://123.51.230.108:18509/.m3u8
+緯來體育,http://123.51.230.108:18509/.m3u8
 中天娛樂,http://162.19.247.76:22222/live/ztyl/index.m3u8
 
 直播中国,#genre#
