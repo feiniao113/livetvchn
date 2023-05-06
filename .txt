@@ -93,8 +93,6 @@ CCTV世界地理,https://epg.pw/stream/54590270e535f1c362b9c88f46e038d0c25eb90bf
 CCTV世界地理,https://epg.pw/stream/1070479031451ed33d4cc14c8eb9280100a20377a7e25e899b5b9ad3e4f6fbd0.m3u8
 CCTV世界地理,https://epg.pw/stream/a2faa8c4fcfe41dc739a188554be7186eca217646de5baa898f1096f1e68d9db.m3u8
 CCTV世界地理,https://epg.pw/stream/797e68015826dc7b8c970ae3c34324f3e22187b8e3deb1206f4c01be498fd3b9.m3u8
-CCTV中視購物[ipv6],https://epg.pw/stream/04b1e355ace335095dfb8cf8bfa347f4181074ae442f3875e50c8001ca264159.m3u8
-CCTV中視購物,https://epg.pw/stream/d40484d1159487726a163f6f8b454d3ccf6fc43aeb232c79bdda6ba8cd2f5c60.m3u8
 CCTV兵器科技,https://epg.pw/stream/8dfdc66e933413a46cba984f25b036690aa0fe4665015d21a6818345c6523ceb.m3u8
 CCTV兵器科技,https://epg.pw/stream/193c3b78ee84d1e49e4b96c98802c65ef61191ad287b0faa2df3399ac2e8b10b.m3u8
 CCTV兵器科技,https://epg.pw/stream/3a6e7ecfea8114e3169cfbd3e2a5165ba6057ba1f698363ab01acb5649871188.m3u8
@@ -109,10 +107,6 @@ CCTV國防軍事,https://epg.pw/stream/7577edfb0f494a0ae8b39e345ca4a41376423e62f
 CCTV國防軍事,https://epg.pw/stream/23e0c328233dc11bf3df8d0fe5aa261977b7d881eab2d972e2495bde6cc08759.m3u8
 CCTV國防軍事,https://epg.pw/stream/640ef31732e0138b53f8dffac82c48dbc9e6adb5e9b04ea3dc67173eefb1b692.m3u8
 CCTV國防軍事,https://epg.pw/stream/c2c9cbabbdc8bb4fe852d98cfa4c23f8e1141b3bd403dc3d0ad926fac453ce17.m3u8
-CCTV央視檯球,https://epg.pw/stream/d1c9c4e5246a4513add9530f7fd6c58ac21837349407aaeda5d3fa0eb628b187.m3u8
-CCTV央視檯球,https://epg.pw/stream/8449147732632fd436ec1f8078133747e6908c0bc4515f8126295ca9d78a9244.m3u8
-CCTV央視檯球,https://epg.pw/stream/0fad070006366e7aac41ec7efb157855ba1ef59dc94c56430a5d61440ce633d6.m3u8
-CCTV央視檯球,https://epg.pw/stream/c0208a6658447e133b7798333c2942a5d8da197e1053afe9dd7ad39b8282f9f0.m3u8
 CCTV央视文化精品,https://epg.pw/stream/0cf1c52d064bd09dccd011d69ab203ef1f56e88ae7ab7310cf22d4fb4da9715a.m3u8
 CCTV央视文化精品,https://epg.pw/stream/2c1e86635d463949355ec361cbb207243e4f8871de2cbd84d3f76118d26d029a.m3u8
 CCTV央视文化精品,https://epg.pw/stream/7abdcc231569431e7b3de4de360dfd05aad143976139320bdc7d3d01c657e1be.m3u8
