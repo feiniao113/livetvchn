@@ -628,7 +628,7 @@ GTV网络棋牌,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240319_1/pl
 浙江卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240134_1/playlist.m3u8?CONTENTID=00000110240134_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 重庆卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240397_1/playlist.m3u8?CONTENTID=00000110240397_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 
-⛵  港•澳•台,#genre#
+港•澳•台,#genre#
 凤凰中文,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=1
 凤凰中文,http://tv.beimua.com/tvs.php?id=11
 凤凰中文,https://epg.pw/stream/9d3ae35ac5340698211b15afabadf8d01cadfd8f2e804854fe854eb39412924a.m3u8
@@ -861,7 +861,7 @@ TLC, http://www.yshmzmc.top/gtjm.php?id=live1005
 国家地理野生,https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 动物星球, http://www.yshmzmc.top/gtjm.php?id=live1004
 
-🇹🇼台湾,#genre#
+台湾,#genre#
 東森戲劇,http://162.19.247.76:22222/live/dsxj/index.m3u8
 東森電影,http://162.19.247.76:22222/live/dsdyt/index.m3u8
 東森洋片,http://162.19.247.76:22222/live/dsypt/index.m3u8
@@ -870,6 +870,30 @@ TLC, http://www.yshmzmc.top/gtjm.php?id=live1005
 華視,http://162.19.247.76:22222/live/huashi/index.m3u8
 緯來體育,http://123.51.230.108:18509/.m3u8
 中天娛樂,http://162.19.247.76:22222/live/ztyl/index.m3u8
+
+新加坡,#genre#
+天映频道,mitv://generationnexxxt.com:19806/92386b47be6544dca5c536204bddc813.ts
+中天亚洲台,mitv://generationnexxxt.com:19806/362649bea34241588b42dd964bdfb100.ts
+TVB星河(粤),mitv://generationnexxxt.com:19806/18d7387cc825496db789bbfa731a5707.ts
+天映经典,mitv://generationnexxxt.com:19806/0229760baf0a441bba169ee12d860fb7.ts
+KBS World,mitv://generationnexxxt.com:19806/26152f8d16224d09bca6368ae2db3e36.ts
+ONE,mitv://generationnexxxt.com:19806/952368f8f4cf42339c651edcb6267585.ts
+Colors Hindi,mitv://generationnexxxt.com:19806/2a976a37b59f41cd825b33c77b2d6bfe.ts
+CGTN,mitv://generationnexxxt.com:19806/b1f0e7e90e654f63a369f11b54428643.ts
+BBC World News,mitv://generationnexxxt.com:19806/4500941de27f434cae09553a1f0ed4d1.ts
+CNBC,mitv://generationnexxxt.com:19806/8603e70bd41c4e4a9368407a8a4debdd.ts
+Bloomberg TV,mitv://generationnexxxt.com:19806/fbf63c9e85084cf98b7e39d2cd178608.ts
+Cartoon Network,mitv://generationnexxxt.com:19806/41375bcbd5094f538f132d3ebb9b2ea6.ts
+Nickelodeon,mitv://generationnexxxt.com:19806/f2783df879aa424b9402999698bcd55f.ts
+Nick Jr.,mitv://generationnexxxt.com:19806/05c5813e22bf4475b416ec1b35280aa3.ts
+Boomerang,mitv://generationnexxxt.com:19806/317cf636b2d448d0867cc1f976064d8a.ts
+AXN亚洲,mitv://generationnexxxt.com:19806/8add116b0e7d408f89cdf74897f02aef.ts
+HITS,mitv://generationnexxxt.com:19806/be8e6fe7ffd343edb7bec5d01de30204.ts
+beIN Sports 3,mitv://generationnexxxt.com:19806/ade2ee776a684bbca72d37b951bf0d61.ts
+Mediacorp 5,mitv://generationnexxxt.com:19806/b0798f0bb62f440a92ee49d38967b6d1.ts
+Mediacorp 8,mitv://generationnexxxt.com:19806/847cb3132dbe4d2897e276a271c04ec7.ts
+Suria,mitv://genera
+5072885321ea4690a
 
 直播中国,#genre#
 直播中国精编直播,http://gcksc.v.kcdnvip.com/gc/wgw05_1/index.m3u8
