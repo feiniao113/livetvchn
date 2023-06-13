@@ -281,29 +281,6 @@ CCTV-13,http://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv13_2/index.m3u8
 緯來體育,http://123.51.230.108:18509/.m3u8
 中天娛樂,http://162.19.247.76:22222/live/ztyl/index.m3u8
 
-新加坡,#genre#
-天映频道,mitv://generationnexxxt.com:19806/92386b47be6544dca5c536204bddc813.ts
-中天亚洲台,mitv://generationnexxxt.com:19806/362649bea34241588b42dd964bdfb100.ts
-TVB星河(粤),mitv://generationnexxxt.com:19806/18d7387cc825496db789bbfa731a5707.ts
-天映经典,mitv://generationnexxxt.com:19806/0229760baf0a441bba169ee12d860fb7.ts
-KBS World,mitv://generationnexxxt.com:19806/26152f8d16224d09bca6368ae2db3e36.ts
-ONE,mitv://generationnexxxt.com:19806/952368f8f4cf42339c651edcb6267585.ts
-Colors Hindi,mitv://generationnexxxt.com:19806/2a976a37b59f41cd825b33c77b2d6bfe.ts
-CGTN,mitv://generationnexxxt.com:19806/b1f0e7e90e654f63a369f11b54428643.ts
-BBC World News,mitv://generationnexxxt.com:19806/4500941de27f434cae09553a1f0ed4d1.ts
-CNBC,mitv://generationnexxxt.com:19806/8603e70bd41c4e4a9368407a8a4debdd.ts
-Bloomberg TV,mitv://generationnexxxt.com:19806/fbf63c9e85084cf98b7e39d2cd178608.ts
-Cartoon Network,mitv://generationnexxxt.com:19806/41375bcbd5094f538f132d3ebb9b2ea6.ts
-Nickelodeon,mitv://generationnexxxt.com:19806/f2783df879aa424b9402999698bcd55f.ts
-Nick Jr.,mitv://generationnexxxt.com:19806/05c5813e22bf4475b416ec1b35280aa3.ts
-Boomerang,mitv://generationnexxxt.com:19806/317cf636b2d448d0867cc1f976064d8a.ts
-AXN亚洲,mitv://generationnexxxt.com:19806/8add116b0e7d408f89cdf74897f02aef.ts
-HITS,mitv://generationnexxxt.com:19806/be8e6fe7ffd343edb7bec5d01de30204.ts
-beIN Sports 3,mitv://generationnexxxt.com:19806/ade2ee776a684bbca72d37b951bf0d61.ts
-Mediacorp 5,mitv://generationnexxxt.com:19806/b0798f0bb62f440a92ee49d38967b6d1.ts
-Mediacorp 8,mitv://generationnexxxt.com:19806/847cb3132dbe4d2897e276a271c04ec7.ts
-Suria,mitv://genera
-5072885321ea4690a
 
 直播中国,#genre#
 直播中国精编直播,http://gcksc.v.kcdnvip.com/gc/wgw05_1/index.m3u8
